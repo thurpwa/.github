@@ -62,14 +62,6 @@ Estúdio independente dedicado a experiências imersivas, histórias profundas e
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thurpwa\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thurpwa\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
 ## 📚 Atualmente estudando
 
 * Estruturas de dados em **C**
@@ -81,7 +73,8 @@ Estúdio independente dedicado a experiências imersivas, histórias profundas e
 
 ## 🎵 Fora do código
 
-Quando não estou programando, geralmente estou ouvindo **Foo Fighters**, **The Beatles**, **Scorpions**, **Guns N’ Roses** ou **Red Hot Chili Peppers**.
+Quando não estou programando, geralmente estou ouvindo **Foo Fighters**, **The Beatles**, **Scorpions**, **Guns N’ Roses**, **Stoned Hare** ou **Red Hot Chili Peppers**.
+Além de muitas outras bandas. ❤👨🏻‍🎤
 
 ---
 
