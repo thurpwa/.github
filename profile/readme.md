@@ -58,7 +58,7 @@ Jogo de terror psicológico desenvolvido com **CopperCube**, focado em atmosfera
 
 Estúdio independente dedicado a experiências imersivas, histórias profundas e projetos com identidade visual marcante.
 
-🌐 **Site:** https://www.iceveil.com.br
+🌐 **Site:** https://www.iceveilstudios.com
 
 ---
 
@@ -80,7 +80,7 @@ Além de muitas outras bandas. ❤👨🏻‍🎤
 
 ## 📫 Contato
 
-* 🌐 https://www.iceveil.com.br
+* 🌐 [https://www.iceveilstudios.com](https://www.iceveilstudios.com)
 * 🎮 https://iceveilstudios.itch.io
 * 📷 Instagram: **@thur_pwa**
 
